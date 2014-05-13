@@ -17,7 +17,7 @@ Serialization used to save & retrieve the quiz from file system.
 - Java SE 7 SDK (using @Override & Anonymous class)
 - Java IDE (e.g. IntelliJ IDEA, Netbeans, Eclipse, etc)
 
-### Compiling (Windows)
+### Compiling (Windows, Manually)
 *All sources in com.abhisekp package*
 
 	cd src\ && mkdir ..\out\
@@ -28,4 +28,10 @@ Serialization used to save & retrieve the quiz from file system.
 	java com.abhisekp.Quiz
 
 ## Issues
-[Issues Page](https://github.com/abhisekp/QuizApp1/issues/)
+- [Build & Play panels not displaying](https://github.com/abhisekp/QuizApp1/issues/1)
+
+## Get Softwares
+- [Jetbrains IntelliJ IDEA](http://www.jetbrains.com/idea/download/download_thanks.jsp)
+- [Netbeans](https://netbeans.org/downloads/start.html?platform=windows&lang=en&option=javase)
+- [Eclipse](https://www.eclipse.org/downloads/packages/eclipse-standard-432/keplersr2)
+- [Java SE 7 or 8 SDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
