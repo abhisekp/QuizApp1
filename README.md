@@ -23,6 +23,9 @@ Serialization used to save & retrieve the quiz from file system.
 	cd src\ && mkdir ..\out\
 	javac -d ..\out\ com\abhisekp\Quiz.java
 
-### Running
+### Running (Windows)
 	cd out\
 	java com.abhisekp.Quiz
+
+## Issues
+[Issues Page](https://github.com/abhisekp/QuizApp1/issues/)
