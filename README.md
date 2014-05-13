@@ -1,7 +1,12 @@
-QuizApp1
-========
+# QuizApp1
 
 Quiz App 1 (using Serialization)
 
-Using Serialization, the quiz is saved & retrieved from file system to be played or built.
+Serialization used to save & retrieve the quiz from file system.
+
+## Features
+- Create multiple quizzes
+- Play quizzes
+- Save partially played or created quizzes
+- Load partially played or created quizzes
 
