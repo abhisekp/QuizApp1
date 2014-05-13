@@ -14,7 +14,7 @@ Serialization used to save & retrieve the quiz from file system.
 **Quiz.java** - main class
 
 ### Pre-requisites
-- Java SE 7 SDK (using @Override & Anonymous class)
+- Java SE 7 SDK (using Override & Anonymous class)
 - Java IDE (e.g. IntelliJ IDEA, Netbeans, Eclipse, etc)
 
 ### Compiling (Windows, Manually)
