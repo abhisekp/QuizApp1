@@ -1,4 +1,5 @@
 # QuizApp1
+[![Gitter chat](https://badges.gitter.im/abhisekp/ComputerEnthusiasts.png)](https://gitter.im/abhisekp/ComputerEnthusiasts)
 
 Quiz App 1 (using Serialization)
 
